@@ -1,2 +1,4 @@
-# python-webapp
-demo for python web app
+awesome-python3-webapp
+======================
+
+A python webapp tutorial.
